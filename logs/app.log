@@ -1,0 +1,34 @@
+[2020-12-03T16:28:56.890480+08:00] slim-app.INFO: User of id `1` was viewed. [] {"uid":"326c67e"}
+[2020-12-03T16:29:03.554602+08:00] slim-app.INFO: Users list was viewed. [] {"uid":"6bc3475"}
+[2020-12-03T16:29:14.655954+08:00] slim-app.INFO: User of id `1` was viewed. [] {"uid":"c440f51"}
+[2020-12-03T16:31:03.452118+08:00] slim-app.INFO: User of id `1` was viewed. [] {"uid":"fecb549"}
+[2020-12-03T21:50:18.557778+08:00] slim-app.INFO: Users list was viewed. [] {"uid":"a3aeef1"}
+[2020-12-03T21:58:39.692991+08:00] slim-app.INFO: Users list was viewed. [] {"uid":"51a26b2"}
+[2020-12-03T21:58:40.291229+08:00] slim-app.INFO: Users list was viewed. [] {"uid":"32a5062"}
+[2020-12-03T22:00:16.975188+08:00] slim-app.INFO: Users list was viewed. [] {"uid":"71ff5ba"}
+[2020-12-03T22:04:53.418218+08:00] slim-app.INFO: Urls list was viewed. [] {"uid":"cd169c6"}
+[2020-12-03T22:10:42.199249+08:00] slim-app.INFO: Urls list was viewed. [] {"uid":"895164d"}
+[2020-12-03T22:10:42.773520+08:00] slim-app.INFO: Urls list was viewed. [] {"uid":"cc7624b"}
+[2020-12-03T22:10:43.945523+08:00] slim-app.INFO: Urls list was viewed. [] {"uid":"0ac8a1f"}
+[2020-12-03T22:10:44.847711+08:00] slim-app.INFO: Urls list was viewed. [] {"uid":"27559a6"}
+[2020-12-03T22:21:12.983460+08:00] slim-app.INFO: Urls list was viewed. [] {"uid":"9ff8323"}
+[2020-12-03T22:36:23.481789+08:00] slim-app.INFO: Urls list was viewed. [] {"uid":"9f090a6"}
+[2020-12-03T22:44:50.516911+08:00] slim-app.INFO: Urls list was viewed. [] {"uid":"b2f050c"}
+[2020-12-03T22:44:51.076972+08:00] slim-app.INFO: Urls list was viewed. [] {"uid":"10e367b"}
+[2020-12-03T22:49:02.807427+08:00] slim-app.INFO: Urls list was viewed. [] {"uid":"89c81fc"}
+[2020-12-03T22:49:24.246859+08:00] slim-app.INFO: Urls list was viewed. [] {"uid":"6e4c7d3"}
+[2020-12-03T22:50:25.824643+08:00] slim-app.INFO: Urls list was viewed. [] {"uid":"05526ee"}
+[2020-12-03T22:50:46.228784+08:00] slim-app.INFO: Urls list was viewed. [] {"uid":"d7665c8"}
+[2020-12-03T22:50:59.834027+08:00] slim-app.INFO: Urls list was viewed. [] {"uid":"fd90f54"}
+[2020-12-03T22:53:00.678607+08:00] slim-app.INFO: Urls list was viewed. [] {"uid":"f0a3343"}
+[2020-12-03T22:53:15.068290+08:00] slim-app.INFO: Urls list was viewed. [] {"uid":"1116e15"}
+[2020-12-03T22:53:15.631503+08:00] slim-app.INFO: Urls list was viewed. [] {"uid":"27abdeb"}
+[2020-12-03T22:53:16.069716+08:00] slim-app.INFO: Urls list was viewed. [] {"uid":"68f0bc6"}
+[2020-12-03T22:53:16.288485+08:00] slim-app.INFO: Urls list was viewed. [] {"uid":"90058ea"}
+[2020-12-03T22:53:16.511919+08:00] slim-app.INFO: Urls list was viewed. [] {"uid":"2997e5b"}
+[2020-12-03T22:53:47.261642+08:00] slim-app.INFO: Urls list was viewed. [] {"uid":"4136248"}
+[2020-12-03T22:53:47.825415+08:00] slim-app.INFO: Urls list was viewed. [] {"uid":"d5142f2"}
+[2020-12-03T22:53:48.394869+08:00] slim-app.INFO: Urls list was viewed. [] {"uid":"2fd57d3"}
+[2020-12-03T22:53:56.794162+08:00] slim-app.INFO: Urls list was viewed. [] {"uid":"f8b13ec"}
+[2020-12-03T22:53:57.673169+08:00] slim-app.INFO: Urls list was viewed. [] {"uid":"d9ff7f2"}
+[2020-12-03T22:54:28.326486+08:00] slim-app.INFO: Urls list was viewed. [] {"uid":"333e867"}
